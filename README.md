@@ -24,8 +24,10 @@ Para instalar las dependencias necesarias, sigue estos pasos:
 
 El archivo `requirements.txt` debe contener las siguientes dependencias:
 
+```bash
 matplotlib==3.9.2
 numpy==2.0.1
+```
 
 ## Uso del programa
 
